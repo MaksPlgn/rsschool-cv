@@ -31,7 +31,7 @@ function XO(str) {
 ****
 
 ## Experience
-
+Nothing yet…
 ****
 
 ## Education and courses
