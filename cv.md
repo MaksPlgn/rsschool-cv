@@ -46,4 +46,6 @@ function XO(str) {
 * [Javascript Full Course + React on Udemy](https://www__.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата") (*in process...*)
 ****
 
+## Language
+English level - A2
 
