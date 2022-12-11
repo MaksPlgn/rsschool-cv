@@ -6,7 +6,11 @@
 ****
 
 ## About Me
+In 2014, I graduated from Novosibirsk State Technical University with a master's degree in science and technology. My main specialization is the development and modeling of microelectromechanical systems (MEMS).
 
+I am constantly engaged in self-education. It brings pleasure to find and try to apply new knowledge in practice. The source of new knowledge in my main specialization and related specialization are mainly modern foreign scientific and technical articles.
+
+I am sure that with the help of RS School I will be able to get new competences, skills and knowledge necessary to become an IT specialist.
 ****
 
 ## Skills
