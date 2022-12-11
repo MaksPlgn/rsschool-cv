@@ -17,6 +17,16 @@
 ****
 
 ## Code example
+Codewars: [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a "Exes and Ohs")
+```
+function XO(str) {
+  str = str.toLowerCase();
+  let xCount = str.split("x").length - 1;
+  let oCount = str.split("o").length - 1;
+  return ((xCount === oCount) || 
+    ((xCount === 0) && (oCount === 0))) ? true : false
+}
+```
 
 ****
 
