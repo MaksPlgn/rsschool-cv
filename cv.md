@@ -11,6 +11,7 @@ In 2014, I graduated from Novosibirsk State Technical University with a master's
 I am constantly engaged in self-education. It brings pleasure to find and try to apply new knowledge in practice. The source of new knowledge in my main specialization and related specialization are mainly modern foreign scientific and technical articles.
 
 I am sure that with the help of RS School I will be able to get new competences, skills and knowledge necessary to become an IT specialist.
+
 ****
 
 ## Skills
@@ -18,6 +19,7 @@ I am sure that with the help of RS School I will be able to get new competences,
 * CSS
 * Git
 * JavaScript, Python, C# (Basic)
+
 ****
 
 ## Code example
@@ -36,6 +38,7 @@ function XO(str) {
 
 ## Experience
 *Nothing yet…*
+
 ****
 
 ## Education and courses
@@ -44,6 +47,7 @@ function XO(str) {
 * Free Hexlet courses
 * FreeCodeCamp Responsive Web Design (*in process...*)
 * [Javascript Full Course + React on Udemy](https://www__.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата") (*in process...*)
+
 ****
 
 ## Language
