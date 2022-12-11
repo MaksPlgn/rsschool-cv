@@ -31,15 +31,15 @@ function XO(str) {
 ****
 
 ## Experience
-Nothing yet…
+*Nothing yet…*
 ****
 
 ## Education and courses
 * JS, CSS, HTML, Git video courses on diffrent YouTube channels
 * JavaScript (https://learn.javascript.ru/)
 * Free Hexlet courses
-* FreeCodeCamp Responsive Web Design (in process...)
-* [Javascript Full Course + React on Udemy](https://www.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата") (in process...)
+* FreeCodeCamp Responsive Web Design (*in process...*)
+* [Javascript Full Course + React on Udemy](https://www__.udemy.com/course/javascript_full/ "Полный курс по JavaScript + React - с нуля до результата") (*in process...*)
 ****
 
 
