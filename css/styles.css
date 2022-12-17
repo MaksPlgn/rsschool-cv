@@ -223,3 +223,107 @@ a {
   letter-spacing: 2px;
 }
 
+.main {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.column-left {
+  color: white;
+  padding: 0 20px 20px 20px;
+}
+
+.column-right {
+  margin: 0 20px 0 0;
+  padding: 0 20px 20px 20px;
+  border-radius: 20px;
+  background-color: #efd6ac;
+}
+
+.section {
+  padding-left: 20px;
+  margin-bottom: 25px;
+}
+
+.section__title {
+  display: block;
+  position: relative;
+  margin-bottom: 10px;
+  text-align: right;
+  z-index: 0;
+}
+
+.section__title::after {
+  content: "";
+  position: absolute;
+  bottom: 20%;
+  left: -40px;
+  width: calc(100% + 40px);
+  height: 40%;
+  background-color: #183a37;
+  z-index: -1;
+}
+
+.column-left .section__title {
+  color: #efd6ac;
+}
+
+.column-right .section__title {
+  color: #272635;
+  -webkit-text-stroke: 2px #272635;
+  -webkit-text-fill-color: #efd6ac;
+}
+
+.contacts__list {
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+}
+
+.contacts__item {
+  margin-bottom: 15px;
+}
+
+.contacts__item a {
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.contacts__item a:hover {
+  color: #efd6ac;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  transition: all 0.3s;
+}
+
+.education__item {
+  margin-bottom: 20px;
+}
+
+.education__title {
+  border-bottom: 3px solid #efd6ac;
+  margin-bottom: 10px;
+}
+
+.education__descr {
+  font-size: 1rem;
+  font-weight: 300;
+  font-style: normal;
+  color: #a6a6a8;
+}
+
+.skills {
+  margin-bottom: 0;
+}
+
+.skills__list {
+  font-size: 1em;
+  letter-spacing: 2px;
+}
+
+.skills_item {
+  margin-bottom: 10px;
+}
