@@ -327,3 +327,71 @@ a {
 .skills_item {
   margin-bottom: 10px;
 }
+
+.about-me__descr {
+  font-size: 1.1rem;
+  font-weight: 300;
+  margin-bottom: 15px;
+  letter-spacing: 2px;
+}
+
+.code-example__field {
+  display: block;
+  padding: 20px;
+  color: #fff;
+  background-color: #272635;
+}
+
+.code-example__descr {
+  font-size: 1.1rem;
+  font-weight: 300;
+  margin-bottom: 15px;
+  letter-spacing: 2px;
+}
+
+.code-example__link {
+  display: inline;
+}
+
+.js-keyword {
+  color: violet;
+}
+
+.js-el {
+  color: yellow;
+}
+
+.js-numb {
+  color: orange;
+}
+
+.js-punct {
+  color: rgb(15, 134, 134);
+}
+
+.js-str {
+  color: green;
+}
+
+.js-method {
+  color: rgb(77, 162, 241);
+}
+
+.experience__descr {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 15px;
+  letter-spacing: 2px;
+}
+
+.language__list {
+  padding-left: 10px;
+  font-size: 1.1rem;
+  font-weight: 300;
+  list-style-type: square;
+  letter-spacing: 2px;
+}
+
+.language__item {
+  margin-bottom: 10px;
+}
