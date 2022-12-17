@@ -25,6 +25,33 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Poppins";
+  src: local("☺︎"), url("../fontsPoppins-LightItalic.woff2") format("woff2"),
+    url("../fontsPoppins-LightItalic.woff") format("woff"),
+    url("../fontsPoppins-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: local("☺︎"), url("../fonts/Poppins-Italic.woff2") format("woff2"),
+    url("../fonts/Poppins-Italic.woff") format("woff"),
+    url("../fonts/Poppins-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: local("☺︎"), url("../fonts/Poppins-BoldItalic.woff2") format("woff2"),
+    url("../fonts/Poppins-BoldItalic.woff") format("woff"),
+    url("../fonts/Poppins-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
 * {
   margin: 0;
   padding: 0;
