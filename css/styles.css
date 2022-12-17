@@ -395,3 +395,27 @@ a {
 .language__item {
   margin-bottom: 10px;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  height: 50px;
+  margin: 20px 200px 0 200px;
+  color: white;
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer__github {
+  font-size: 3rem;
+}
+
+.footer__rsslogo {
+  width: 100px;
+}
